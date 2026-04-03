@@ -1,19 +1,9 @@
 title: Noor Fatima
-tagline: Engineering Student | Web Developer
-description: >-
-  Personal portfolio and blog of Noor Fatima, an engineering student passionate about programming and technology.
+tagline: Engineering Student
+description: Personal portfolio
 
-url: "https://noor-fatima.github.io"
+url: "https://2025-bscpe-145.github.io"
+baseurl: "/Noor_Fatima.github.io"
 
 github:
-  username: yourusername
-
-social:
-  name: Noor Fatima
-  email: Noofatima45@email.com
-  links:
-    - https://github.com/noor-fatima
-
-theme_mode: Dark
-
-avatar: https://via.placeholder.com/150
+  username: 2025-bscpe-145
